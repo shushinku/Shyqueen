@@ -1,74 +1,12 @@
 <div align="center">
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
-  <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
+  <img src="20211124_142718.jpg" width="300" height="300">
+  <h1>👸💎 Shyqueen BOT 💎👸</h1>
 </div>
 <p align="center">
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
     <br>
-        <a href="https://chat.whatsapp.com/FufFv6v1M288le5TopCNMQ">Whatsapp Group</a> |
-        <a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">Youtube Channel</a>
-    <br>
-</p>
-
-----
-<div align="center">
-	<h1>Visit our official website to install the Whatsapp Bot :</h1>
-	<a href="https://www.amdaniwasa.com">
-<img src="https://images.squarespace-cdn.com/content/v1/580515742e69cfedd1fbef58/1525386767826-Z6T2PAXQD6PZJFNGY14U/ke17ZwdGBToddI8pDm48kGzbt7cz3CKX9Rsta-RdWeJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpwXPcCdCfJzTjuw7eD5qoJaUvNnrlJ7-JqE3xnP9OqaaXMr3zNNd3H5Lklmgn1mB80/getbutton.png" width="400"></br></a>
-</div>
-
-<p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
-  </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat-square&logo=github&label=Image Size">
-    
-  </a>
-</p>
-
-<p align="center">
-
-  <a href="https://github.com/BlackAmda/QueenAmdi">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
-  
-  </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi/fork">
-    <img src="https://img.shields.io/github/forks/BlackAmda/QueenAmdi?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/BlackAmda/QueenAmdi/stargazers">
-    <img src="https://img.shields.io/github/stars/BlackAmda/QueenAmdi?style=social">
-  </a>
-</p>
-
-<p align="center">
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/repo-size/BlackAmda/QueenAmdi?color=purple&label=Repo%20Size&style=plastic">
-
-  </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/license/BlackAmda/QueenAmdi?color=purple&label=License&style=plastic">
-
-  </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/github/languages/top/BlackAmda/QueenAmdi?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Black%20Amda&color=purple&style=plastic">
-
-  </a>
-  </p>
- <p align="center">
-  <a href="https://wa.me/94757405652">
-    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Queen%20Amdi%20Bot-purple&style=plastic">
-
-  </a>
-</p>
-
 ```
-Queen Amdi bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
+Shyqueen bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
 The user is responsible for all possible consequences of misuse.
 This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
 Additionally, it enables plug-in support for users.
@@ -77,45 +15,122 @@ Usage is entirely the responsibility of the user. The operating system is not re
 HAVE A FUN!
 ```
 
-## Visit our official website to install the Whatsapp Bot :
-QR Code generator and full instructions available there.
-<div>
-	<a href="https://www.amdaniwasa.com">
-<img src="https://i.ibb.co/dr27VyW/59060c190cbeef0acff9a657.png" width="200"></br></a>
-</div>
-
-## Queen Amdi Team
-
-<table>
-										<tbody>
-											<tr>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/r7vZVqw/1-Amda.jpg" width="200" height="200" alt="Black Amda"></a></td>
-												<td><a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://i.ibb.co/tsFBnbx/2-Sasmitha.jpg" width="200" height="200" alt="sᴀsᴍɪᴛʜᴀ"></a></td>
-												<td><a href="https://www.instagram.com/saji_x.x_4/"><img src="https://i.ibb.co/6FZsnvQ/3-Sajiya.jpg" width="200" height="200" alt="ʟɪʟ ʟᴜᴢɪ"></a></td>
-											</tr>
-										</tbody>
-									</table>
-                  <table>
-										<tbody>
-											<tr>
-												<td><a href="https://dinaaofficial.github.io/dina-official/"><img src="https://i.ibb.co/rvYYcVD/4-Dina.jpg" width="200" height="200" alt="ᴍʀ.ᴅɪɴᴀ"></a></td>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ"><img src="https://i.ibb.co/HzfN8pD/5-Joka.jpg" width="200" height="200" alt="ᴊᴏᴋᴀ ᴛᴀᴍᴀ"></a></td>
-                        <td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/bj4LqJh/6-Kapaya.jpg" width="200" height="200" alt="ᴋᴀᴘᴀʏᴀ"></a></td>
-											</tr>
-									</table>
-                  <table>
-										<tbody>
-											<tr>
-												<td><a href="https://www.thinknfree.com/"><img src="https://i.ibb.co/2kHWJBD/7-Zeus.jpg" width="200" height="200" alt="ᴢᴇᴜs"></a></td>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/x3MjnWn/8-Pancha.jpg" width="200" height="200" alt="ZEYREX"></a></td>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://i.ibb.co/ySvhR4J/9-Saiko.jpg" width="200" height="200" alt="sɪɢᴇᴅᴇʀɪᴇɴ"></a></td>
-											</tr>
-										</tbody>
-									</table>
-
+## Shy Queen  Team
+									
+MADE BY UDULA BRO 
+<img src="20211124_142718.jpg"/>										
+	
+										
+											
+																			
+															
 ### License
 This project is protected by the `GNU General Public License v3.0.`
 Do not edit copyright messages!
 
 ### Disclaimer
 `WhatsApp` name, its variations and logo are registered trademarks on Facebook. We have nothing to do with the registered trademark.
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<link rel = "icon" href =
+"https://i.ibb.co/r3wmpwr/LOGO.jpg">
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<link rel="stylesheet" href="assets/css/main.css" />
+<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+</head>
+<body class="is-preload">
+<!-- Wrapper -->
+<div id="wrapper">
+<!-- Header -->
+<header id="header">
+<div class="logo">
+<span class="icon fa-gem"></span>
+</div>
+<div class="content">
+<div class="inner">
+<h1>Shy Queen Whatsapp Bot</h1>
+<p>
+Shy Queen whatsapp bot, WhatsApp භාවිතා කිරීම පහසු සහ විනෝදජනක කරයි.</br>
+ඔබේ විනෝදාස්වාදය අරමුණු කරගත් බොහෝ කාර්යයන් සඳහා මෙම පරිශීලකබෝට් ඔබට උදව් කරනු ඇත.</br>
+ඔබට එය විනාඩි 15 ක් ඇතුළත ඉතා පහසුවෙන් සවි කළ හැකිය. <a href="https://github.com/adiwajshing/Baileys">(Baileys මත පදනම්ව)</a>
+</p>
+</div>
+</div>
+
+<p>
+Shy Queen බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි.
+මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි.
+ඊට අමතරව, එය පරිශීලකයින් සඳහා plugin සහාය සක්‍රීය කරයි.
+මුල් මෘදුකාංගයට තමන්ගේම plugin සවි කර තමන්ට කැමති පරිදි භාවිතා කරන්න.
+භාවිතය සම්පුර්ණයෙන්ම පරිශීලකයාගේ වගකීමකි. සංවර්ධක කණ්ඩායම වගකිව යුතු නොවේ.
+</p>
+<p>
+⚠️ මතක තබා ගන්න! </br>
+පරිශීලක බොට් නිසා; ඔබේ WhatsApp ගිණුම තහනම් කළ හැකිය.
+ඔබ කරන සෑම දෙයකටම ඔබ වගකිව යුතුය.
+බොහෝ විට WhatsApp සැකසුම් admin විධානයන් ඕනෑවට වඩා භාවිතා කිරීම තහනම් වීමට හේතු විය හැක.
+නිසැකවම, Shy Queen  developers වගකීම භාර නොගනී.
+Shy Queen bot පිහිටුවීමෙන් ඔබ මෙම වගකීම් භාර ගත් බව සැලකේ.
+</p>
+
+<h3 id="license">බලපත්‍රය</h3>
+<p>මෙම ව්‍යාපෘතිය <code>GNU General Public License v3.0.</code>මඟින් ආරක්ෂා කර ඇත.
+ප්‍රකාශන හිමිකම් පණිවිඩ සංස්කරණය නොකරන්න!</p>
+<h3 id="disclaimer">Disclaimer</h3>
+<p><code>WhatsApp</code> නම, එහි වෙනස්කම් සහ ලාංඡනය ෆේස්බුක් හි ලියාපදිංචි වෙළඳ ලකුණු වේ. ලියාපදිංචි වෙළඳ ලකුණ සමඟ අපට කිසිදු සම්බන්ධයක් නැත.</p>
+</article>
+<!-- Work -->
+<article id="features">
+<h2 class="major">විශේෂාංග</h2>
+<span class="image main"><img src="images/pic02.jpg" alt="" /></span>
+<h4 class="major">Bot උත්සාහ කරන්න</h4>
+<p>
+ඔබට SUPPORT එකක් බොට් සෑදීමේදී අවශයනම් මෙයට JOIN වෙන්න..<br>
+WhatsApp පොදු කණ්ඩායමට සම්බන්ධ වන්න.<br><a href="https://chat.whatsapp.com/HE1CWME4tbr9jDWQgrksxW" class="button small">Join</a>
+
+<p>මම සැමට ස්තූතිවන්ත වෙමි.
+</article>
+<!-- About -->
+<article id="install">
+<h2 class="major">සාදා ගන්නේ කෙසේද?</h2>
+<span class="image main"><img src="images/pic03.jpg" alt="" /></span>
+<h2 class="major">පියවර 01:</h2>
+<h3>ඔබට පරිගණකයක් තිබේ නම්,</h3>
+<p>» "Run on Repl.it" බොත්තම ක්ලික් කරන්න. (පරිගණක භාවිතා කරන්නන් පමණි) QR code generator ක්‍රියාත්මක කරන්න.</p>
+<p><a href="https://replit.com/@BlackAmda/Queen-Amdi-QR-Code"><img src="https://replit.com/badge/github/BlackAmda/QueenAmdi" alt="Run on Repl.it" style="width:120px;height:25px;"></a></p>
+<p>» දැන් ඔබට QR කේතයක් ලැබෙනු ඇත. ඔබේ Whatsapp වෙබ් මඟින් එය scan කරන්න.</br>
+» Open WhatsApp > Linked devices > Link A device > Scan QR code</br>
+» දැන් ඔබේ session කේතය ඔබගේ ලොග් අංකයට ලැබෙනු ඇත. (ඔබේ වට්ස්ඇප් පණිවිඩය පරීක්‍ෂා කරන්න)</br>
+» ඊළඟ පියවරේදී ඔබ භාවිතා කරන ඔබේ AMDI_SESSION ලෙස එම කේතය මතක තබා ගන්න.
+</p>
+<h3>ඔබට ජංගම දුරකථනයක් පමණක් තිබේ නම්,</h3>
+(ඇන්ඩ්‍රොයිඩ් පමණි. IOS භාවිතා කරන්නන් repl.it බොත්තම භාවිතා කළ යුතුය)
+<p>
+ඔබට ජංගම දුරකථන දෙකක් අවශ්‍යයි. එකක් නම් ඔබේ whatsapp ඇප් එක දුරකථනය සවි කර තිබීමයි. QR කේතය උත්පාදනය කිරීම සඳහා අනෙක් එක. (එක් වරක් පමණි) </br> </br>
+» Play store මඟින් <a href="https://play.google.com/store/apps/details?id=com.termux&hl=en&gl=US">"Termux"</a> යෙදුම ස්ථාපනය කරන්න. </br>
+» දැන් ඔබේ termux app පහත කේතය පිටපත් කරන්න. </Br>
+$ <code>bash &lt;(curl -L https://t.ly/c1Gt)</code> </br>
+» දැන් එය ඔබේ QR කේතය උත්පාදනය කරයි. (එයට කාලය ගත විය හැකිය) </br>
+» QR කේතය ලැබීමෙන් පසු ඔබේ Whatsapp වෙබ් මඟින් එය scan කරන්න. </Br>
+» Open WhatsApp > Linked devices > Link A device > Scan QR code</br>
+» දැන් ඔබේ session කේතය ඔබගේ ලොග් අංකයට ලැබේ. (ඔබේ වට්ස්ඇප් පණිවිඩය පරීක්‍ෂා කරන්න) </br>
+» ඊළඟ පියවරේදී ඔබ භාවිතා කරන ඔබේ AMDI_SESSION ලෙස එම කේතය මතක තබා ගන්න.
+</p>
+<h2 class="major">පියවර 02:</h2>
+<p>
+» දැන් "Deploy to heroku" බොත්තම ක්ලික් කරන්න. එය මත ක්ලික් කිරීමෙන් පසු එය හොඳින් කියවා ඔබේ බොට් එක ක්‍රියාත්මක කිරීම සඳහා එම තොරතුරු පුරවන්න. සියල්ල නිවැරදි බවට වග බලා ගන්න.
+<p><a href="https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a></p>
+» එම පෝරමය පුරවා අවසන් වූ පසු, පෝරමයට පහළින් ඇති "Deploy App" බොත්තම ක්ලික් කරන්න. </BR>
+» ඔබ කොළ පැහැති හරි ලකුනු හතරක් ලබා ගන්නා තෙක් මිනිත්තු කිහිපයක් රැඳී සිටින්න.</bR>
+» ඔබට කොළ පැහැති හරි ලකුනු හතරක් ලැබෙන්නේ නම්, "Manage app" බොත්තම ක්ලික් කරන්න. </BR>
+» දැන් ඔබට බොට් අභ්‍යන්තරව පාලනය කිරීමට ඉඩ සලසන හෙරෝකු උපකරණ පුවරුව ඔබට ලැබෙනු ඇත. </BR>
+» "Your_app_name" ක්ලික් කර "Resources" ක්ලික් කරන්න. </BR>
+» ඊට පසු, ඔබට free dynos කොටසේ බොත්තම එබීමෙන් බොට් එක ක්‍රියාත්මක කිරීමට සිදු වේ. </Br>
+» ඊට පසු, "More "බොත්තම ක්ලික් කර "View log" වෙත යන්න. </Br>
+» ඔබට බොට් log සටහනක් පෙනෙනු ඇත. ඔබට "✅ ප්ලගීන ස්ථාපනය කර ඇත! ඔබේ බොට් සාර්ථකව සක්‍රීයයි." ලැබෙන තුරු රැඳී සිටින්න </Br>
+» දැන් WhatsApp හි ඔබේ බොට් එක ලබා ගන්න.(සම්පූර්ණ විධාන ලැයිස්තුව ලබා ගැනීමට .panel ලියන්න)
+</p>
+</article>
