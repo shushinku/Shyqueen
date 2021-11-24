@@ -1,22 +1,21 @@
 {
-    "name": "Queen Amdi 3.5.0v",
-    "description": "Queen Amdi is a chat bot for WhatsApp. 💃🏻❤️",
+    "name": "Shy Queen 3.50.20V",
+    "description": "Shy queen is the best whatsapp bot in world.. 💃🏻❤️",
     "keywords": [
-        "Queen Amdi",
+        "Shy queen",
         "WhatsApp",
         "User Bot",
         "Chat bot",
         "Button bot",
-        "Black Amda"
+        "shushinku"
     ],
-    "website": "https://amdaniwasa.com",
-    "repository": "https://github.com/BlackAmda/QueenAmdi",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "repository": "https://github.com/shushinku/Shyqueen",
+    "logo": "https://user-images.githubusercontent.com/94888756/143257317-744ca37d-cdc2-4a02-9e71-9aaaf1d4b70e.jpg",
     "success_url": "https://dashboard.heroku.com/apps/",
     "stack": "container",
     "env":{
         "AMDI_SESSION": {
-            "description": "Paste the session code you received after scanning the QR from https://replit.com/@BlackAmda/Queen-Amdi-QR-Code",
+            "description": "Paste the session code you received after scanning the QR Code Qr scan කර ලබා දුන් කේතය පේස්ට් කරන්න.",
             "required": true
         },
         "ADD_MESSAGE": {
@@ -30,12 +29,12 @@
             "value": "default"
         },
         "ALIVE_LOGO": {
-            "description": "Picture with alive message. Paste an image direct link or do '.setalive' command after deploying the bot.",
+            "description": "Picture with alive message. Paste an image direct link or do '.setalive' command after deploying the bot.මෙහි ඔබගේ alive logo එක යොදන්න.",
             "required": true,
-            "value": "https://i.ibb.co/0h6pq4j/6fba2dec0129.jpg"
+            "value": "https://user-images.githubusercontent.com/94888756/143257740-cd16c34a-47c1-4b66-b797-8d3a58d96b0a.jpg"
         },
         "ALIVE_MESSAGE": {
-            "description": "The message that appears when typing the '.alive' command. If you do not want to change it, keep 'default'.",
+            "description": "The message that appears when typing the '.alive' command. If you do not want to change it, keep 'default'.මෙහි alive massege එක type කරන්න.",
             "required": true,
             "value": "default"
         },
@@ -91,7 +90,7 @@
         "CAP": {
             "description": "Caption of media files.",
             "required": true,
-            "value": "ᴳᵉⁿᵉʳᵃᵗᵉᵈ ᴮʸ Qᵘᵉᵉⁿ ᴬᵐᵈᶦ₂₀₂₁"
+            "value": "MADY BY SHY QUEEN"
         },
         "DEMOTE_MESSAGE": {
             "description": "The message that appears when typing the '.demote' command. If you do not want to change it, keep 'default'.",
@@ -117,19 +116,19 @@
             "value": "default"
         },
         "LANGUAGE": {
-            "description": "Bot language. Type EN for English and type SI for Sinhala.",
+            "description": "Bot language. Type EN for English and type SI for Sinhala.සිංහල සදහා SI ENGLISH සදහා EN",
             "required": true,
-            "value": "EN"
+            "value": "SI"
         },
         "MAX_SIZE": {
-            "description": "Set maximum media file sending size. Type size in MB. To best performance keep 90mb.",
+            "description": "Set maximum media file sending size. Type size in MB. To best performance keep 90mb.මෙය වෙනස් කිරීමට යන්න එපා,ඔබ මෙය වෙනස් කිරීමෙන් බොට්ගේ ගැටලු ඇතිවිය හැක.",
             "required": true,
             "value": "90"
         },
         "MENU": {
             "description": "Set your command to get full command list.",
             "required": true,
-            "value": "panel"
+            "value": "shy"
         },
         "MUTE_MESSAGE": {
             "description": "The message that appears when typing the '.mute' command. If you do not want to change it, keep 'default'.",
@@ -170,7 +169,7 @@
             "value": "https://i.ibb.co/XCfhtfH/301820a4f3c0.jpg"
         },
         "WORK_TYPE": {
-            "description": "The way the bot works. If you use public, everyone can use the bot. If you use private, only you can use your bot.",
+            "description": "The way the bot works. If you use public, everyone can use the bot. If you use private, only you can use your bot.ඔබ සදහා private හැම දෙනාම සදහා public ",
             "required": true,
             "value": "private"
         },
